@@ -35,3 +35,7 @@ https://www.youtube.com/watch?v=C1OCgbONSAw&list=PL6Wui14DvQPzSfe9EfQhlanlIHaj70
 43:10 Сборка первого графа и тестирование ответов
 44:40 Анонс следующего занятия: инструменты и MCP
 ```
+
+<br/>
+
+### Лекция 1.2 Tools. MCP
