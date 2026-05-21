@@ -6,6 +6,7 @@ https://www.youtube.com/watch?v=C1OCgbONSAw&list=PL6Wui14DvQPzSfe9EfQhlanlIHaj70
 
 ### Лекция 1.1 Intro to AI Agents LLM
 
+```
 00:01 Приветствие и задачи AI-службы в Яндекславке
 03:21 Обзор программы интенсива по AI-агентам
 05:33 Темы текущего занятия: применение и теория
@@ -29,3 +30,4 @@ https://www.youtube.com/watch?v=C1OCgbONSAw&list=PL6Wui14DvQPzSfe9EfQhlanlIHaj70
 41:30 Архитектура LangChain и LangGraph для продакшена
 43:10 Сборка первого графа и тестирование ответов
 44:40 Анонс следующего занятия: инструменты и MCP
+```
