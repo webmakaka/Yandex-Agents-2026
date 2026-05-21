@@ -39,3 +39,5 @@ https://www.youtube.com/watch?v=C1OCgbONSAw&list=PL6Wui14DvQPzSfe9EfQhlanlIHaj70
 <br/>
 
 ### Лекция 1.2 Tools. MCP
+
+https://agentskills.io/home
