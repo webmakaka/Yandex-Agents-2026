@@ -41,3 +41,7 @@ https://www.youtube.com/watch?v=C1OCgbONSAw&list=PL6Wui14DvQPzSfe9EfQhlanlIHaj70
 ### Лекция 1.2 Tools. MCP
 
 https://agentskills.io/home
+
+<br/>
+
+### Лекция 2 Memory and Guardrails in LLM-Powered Agents
