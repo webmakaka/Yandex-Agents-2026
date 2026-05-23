@@ -45,3 +45,7 @@ https://agentskills.io/home
 <br/>
 
 ### Лекция 2 Memory and Guardrails in LLM-Powered Agents
+
+<br/>
+
+### Лекция 3 AI Agent Workflow Multi-Agent Systems Multimodality
