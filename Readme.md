@@ -54,7 +54,6 @@ https://agentskills.io/home
 
 ### Лекция 4 Agent Evaluation: From Metrics to Managed Quality
 
-
 ```
 00:01 Введение и план практической части
 01:37 Настройка инфраструктуры и простейшего агента
@@ -77,3 +76,11 @@ https://agentskills.io/home
 35:10 Чек-лист по построению системы оценки (Eval)
 39:02 Связь Eval-системы с производственным циклом
 ```
+
+<br/>
+
+### Лекция 5.1 Production Engineering for LLM Agents
+
+<br/>
+
+### Лекция 5.2 Production Engineering for LLM Agents
