@@ -36,20 +36,12 @@ https://www.youtube.com/watch?v=C1OCgbONSAw&list=PL6Wui14DvQPzSfe9EfQhlanlIHaj70
 44:40 Анонс следующего занятия: инструменты и MCP
 ```
 
-
-
-<br/>
-
-### Лекция 1.2 Tools. MCP
-
-https://agentskills.io/home
-
 <br/>
 
 ```python
 from langchain_openai import ChatOpenAI
 
-os.environ["OPENROUTER_API_KEY"] = "sk-or-v1-"  
+os.environ["OPENROUTER_API_KEY"] = "sk-or-v1-"
 
 MODEL = "openrouter/free"
 
@@ -65,8 +57,13 @@ llm = ChatOpenAI(
 #     print("Ответ модели:", response.content)
 # except Exception as e:
 #     print("Произошла ошибка при подключении:", e)
-
 ```
+
+<br/>
+
+### Лекция 1.2 Tools. MCP
+
+https://agentskills.io/home
 
 <br/>
 
