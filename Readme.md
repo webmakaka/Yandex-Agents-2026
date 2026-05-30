@@ -38,6 +38,30 @@ https://www.youtube.com/watch?v=C1OCgbONSAw&list=PL6Wui14DvQPzSfe9EfQhlanlIHaj70
 
 <br/>
 
+```python
+from langchain_openai import ChatOpenAI
+
+os.environ["OPENROUTER_API_KEY"] = "sk-or-v1-"  
+
+MODEL = "openrouter/free"
+
+llm = ChatOpenAI(
+    model=MODEL,
+    temperature=0.2,
+    openai_api_key=os.environ["OPENROUTER_API_KEY"],
+    openai_api_base="https://openrouter.ai/api/v1",
+)
+
+# try:
+#     response = llm.invoke("Привет! Ты работаешь?")
+#     print("Ответ модели:", response.content)
+# except Exception as e:
+#     print("Произошла ошибка при подключении:", e)
+
+```
+
+<br/>
+
 ### Лекция 1.2 Tools. MCP
 
 https://agentskills.io/home
