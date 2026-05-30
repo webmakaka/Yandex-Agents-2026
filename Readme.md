@@ -36,6 +36,14 @@ https://www.youtube.com/watch?v=C1OCgbONSAw&list=PL6Wui14DvQPzSfe9EfQhlanlIHaj70
 44:40 Анонс следующего занятия: инструменты и MCP
 ```
 
+
+
+<br/>
+
+### Лекция 1.2 Tools. MCP
+
+https://agentskills.io/home
+
 <br/>
 
 ```python
@@ -59,12 +67,6 @@ llm = ChatOpenAI(
 #     print("Произошла ошибка при подключении:", e)
 
 ```
-
-<br/>
-
-### Лекция 1.2 Tools. MCP
-
-https://agentskills.io/home
 
 <br/>
 
