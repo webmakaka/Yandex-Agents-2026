@@ -41,15 +41,16 @@ https://www.youtube.com/watch?v=C1OCgbONSAw&list=PL6Wui14DvQPzSfe9EfQhlanlIHaj70
 ```python
 from langchain_openai import ChatOpenAI
 
-os.environ["OPENROUTER_API_KEY"] = "sk-or-v1-"
+os.environ["MY_API_KEY"] = "sk-or-v1-"
 
-MODEL = "openrouter/free"
+MODEL_NAME = "openrouter/free"
+MODEL_API_BASE="https://openrouter.ai/api/v1"
 
 llm = ChatOpenAI(
-    model=MODEL,
+    model=MODEL_NAME,
     temperature=0.2,
-    openai_api_key=os.environ["OPENROUTER_API_KEY"],
-    openai_api_base="https://openrouter.ai/api/v1",
+    openai_api_key=os.environ["MY_API_KEY"],
+    openai_api_base=MODEL_API_BASE,
 )
 
 # try:
@@ -72,6 +73,35 @@ https://agentskills.io/home
 <br/>
 
 ### Лекция 3 AI Agent Workflow Multi-Agent Systems Multimodality
+
+<br/>
+
+https://github.com/marketplace/models
+
+<br/>
+
+WTF!
+
+DeepSeek-R1 - Request included unsupported tool use. Using tool is not supported by this model
+
+Llama-3.3-70B-Instruct - Request included unsupported tool use. This model does not support more than one tool call at this time
+
+gpt-4o-mini - OK!
+
+<br/>
+
+```python
+os.environ["MY_API_KEY"] = "github_pat_***"
+MODEL_NAME = "Llama-3.3-70B-Instruct"
+MODEL_API_BASE="https://models.github.ai/inference"
+
+llm = ChatOpenAI(
+    model=MODEL_NAME,
+    temperature=0,
+    openai_api_key=os.environ["MY_API_KEY"],
+    openai_api_base=MODEL_API_BASE,
+)
+```
 
 <br/>
 
