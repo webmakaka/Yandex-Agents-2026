@@ -8,6 +8,11 @@ https://www.youtube.com/watch?v=C1OCgbONSAw&list=PL6Wui14DvQPzSfe9EfQhlanlIHaj70
 
 <br/>
 
+**Халява закончилась. GitHub отключил:**  
+https://github.com/marketplace/models
+
+<br/>
+
 ### Лекция 1.1 Intro to AI Agents LLM
 
 ```
@@ -73,10 +78,6 @@ https://agentskills.io/home
 <br/>
 
 ### Лекция 3 AI Agent Workflow Multi-Agent Systems Multimodality
-
-<br/>
-
-https://github.com/marketplace/models
 
 <br/>
 
