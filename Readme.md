@@ -134,3 +134,12 @@ https://agentskills.io/home
 <br/>
 
 ### Лекция 5.2 Production Engineering for LLM Agents
+
+
+<br/><br/>
+
+---
+
+<br/>
+
+<a href="https://agenticdev.ru/">Предложить инженеру работу / подработку на проекте с kubernetes, microservices, golang, machine learning, big data, LLM, agents</a>
